@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视",CCTV-4 中文国际
+rtp://239.3.1.105:8092
+#EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4欧洲.png" group-title="央视",CCTV-4 中文国际欧洲
+rtp://239.3.1.213:4220
+#EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4美洲.png" group-title="央视",CCTV-4 中文国际美洲
+rtp://239.3.1.214:4220
+#EXTINF:-1 tvg-name="北京国际" tvg-logo="https://epg.112114.xyz/logo/北京国际.png" group-title="地方",北京国际
+rtp://239.3.1.235:8000
