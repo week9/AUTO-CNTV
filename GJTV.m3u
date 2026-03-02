@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 channel-number="4" tvg-id="4" tvg-name="CCTV-4高清" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-4.png" group-title="央视" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226081/10000100000000060000000000545704_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-4 中文国际
+rtp://239.3.1.105:8092
+#EXTINF:-1 channel-number="341" tvg-id="341" tvg-name="CCTV-4欧洲高清" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-4-EUO.png" group-title="央视" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226138/10000100000000060000000001154838_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-4 中文国际欧洲
+rtp://239.3.1.213:4220
+#EXTINF:-1 channel-number="342" tvg-id="342" tvg-name="CCTV-4美洲高清" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-4-AME.png" group-title="央视" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226149/10000100000000060000000001154841_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-4 中文国际美洲
+rtp://239.3.1.214:4220
+#EXTINF:-1 channel-number="131" tvg-id="131" tvg-name="BTV国际频道" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/BRTV/BRTV_International.png" group-title="地方" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221225804/10000100000000060000000000025033_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",北京国际
+rtp://239.3.1.235:8000
